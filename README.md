@@ -3,7 +3,7 @@
 __Note***:__ After installing the application in mobile device/Emulator, go to settings->permission->contacts. 
 In Contacts give permission to MyContactApp to access it. This is really important don't forget.
 
-Application contanis mainly four files: two activity files and two xml layout files.</p>
+Application contanis mainly four files: two activity files and two xml layout files.<b/>
 Two Activity files are: Main Activity and Second Activity
 Two XML Layout files are: activity main and activity second
 
