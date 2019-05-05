@@ -1,5 +1,5 @@
 # MyContactApp 
-                                                                                                     - by Lingadevaru C
+                                                                                               - by Lingadevaru C
 
 __Note***:__ After installing the application in mobile device/Emulator, go to settings->permission->contacts. 
 In Contacts give permission to MyContactApp to access it. This is really important don't forget.
